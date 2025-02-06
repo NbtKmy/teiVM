@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>『春と修羅』</title>
+        <author>宮沢賢治</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+        <resp when="2000-10-04">作成</resp><resp /><note>
+<lb />
+底本：「宮沢賢治全集1」ちくま文庫、筑摩書房<lb />
+　　　1986（昭和61）年2月26日第1刷発行<lb />
+　　　1998（平成10）年5月12日第17刷発行<lb />
+※底本で注を表す記号として用いられていた「※」は「＊」に置き換えました。<lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+入力：柴田卓治<lb />
+校正：かとうかおり<lb />
+<date when="2000-10-04">2000年10月4日</date>公開<lb />
+<date when="2011-05-11">2011年5月11日</date>修正<lb />
+青空文庫作成ファイル：<lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note></respStmt>
+      <respStmt><resp>Aozora Transcription</resp><name>柴田卓治</name></respStmt><respStmt><resp>Aozora Proofreading</resp><name>かとうかおり</name></respStmt><respStmt><resp when="2019-01-01">TEI Encoding</resp><name>Input Your Name</name></respStmt></titleStmt>
+      <publicationStmt>
+        <distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Input by your self<title>『春と修羅』</title><author>宮沢賢治</author></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body><p><seg rend="main_text" rendition="div"><lb />
+<seg rend="notes" rendition="span">［＃改ページ］</seg><lb />
+<lb />
+<seg rend="jisage_2" rendition="div" style="margin-left: 2em">
+<seg rend="naka-midashi" rendition="h4"><seg rend="midashi_anchor" rendition="a" xml:id="midashi858">
+<seg type="ruby"><seg type="rb">原体剣舞連</seg><seg type="rp">（</seg><seg type="rt">はらたいけんばひれん</seg><seg type="rp">）</seg></seg><lb />
+　　（mental sketch modified）<lb />
+</seg></seg>
+</seg>
+<lb />
+<lb />
+　　　dah-dah-dah-dah-dah-sko-dah-dah<lb />
+こんや<seg type="ruby"><seg type="rb">異装</seg><seg type="rp">（</seg><seg type="rt">いさう</seg><seg type="rp">）</seg></seg>のげん月のした<lb />
+<seg type="ruby"><seg type="rb">鶏</seg><seg type="rp">（</seg><seg type="rt">とり</seg><seg type="rp">）</seg></seg>の黒尾を<seg type="ruby"><seg type="rb">頭巾</seg><seg type="rp">（</seg><seg type="rt">づきん</seg><seg type="rp">）</seg></seg>にかざり<lb />
+<seg type="ruby"><seg type="rb">片刃</seg><seg type="rp">（</seg><seg type="rt">かたは</seg><seg type="rp">）</seg></seg>の太刀をひらめかす<lb />
+<seg type="ruby"><seg type="rb">原体</seg><seg type="rp">（</seg><seg type="rt">はらたい</seg><seg type="rp">）</seg></seg>村の<seg type="ruby"><seg type="rb">舞手</seg><seg type="rp">（</seg><seg type="rt">をどりこ</seg><seg type="rp">）</seg></seg>たちよ<lb />
+<seg type="ruby"><seg type="rb">鴾</seg><seg type="rp">（</seg><seg type="rt">とき</seg><seg type="rp">）</seg></seg>いろのはるの<seg type="ruby"><seg type="rb">樹液</seg><seg type="rp">（</seg><seg type="rt">じゆえき</seg><seg type="rp">）</seg></seg>を<lb />
+アルペン農の<seg type="ruby"><seg type="rb">辛酸</seg><seg type="rp">（</seg><seg type="rt">しんさん</seg><seg type="rp">）</seg></seg>に投げ<lb />
+<seg type="ruby"><seg type="rb">生</seg><seg type="rp">（</seg><seg type="rt">せい</seg><seg type="rp">）</seg></seg>しののめの草いろの火を<lb />
+高原の風とひかりにさゝげ<lb />
+<seg type="ruby"><seg type="rb">菩提樹皮</seg><seg type="rp">（</seg><seg type="rt">まだかは</seg><seg type="rp">）</seg></seg>と縄とをまとふ<lb />
+気圏の戦士わが<seg type="ruby"><seg type="rb">朋</seg><seg type="rp">（</seg><seg type="rt">とも</seg><seg type="rp">）</seg></seg>たちよ<lb />
+青らみわたる<seg type="ruby"><seg type="rb"><seg facs="../../../gaiji/1-94/1-94-05.png" rend="gaiji" rendition="img" source="※(「景＋頁」、第3水準1-94-5)" />気</seg><seg type="rp">（</seg><seg type="rt">かうき</seg><seg type="rp">）</seg></seg>をふかみ<lb />
+楢と<seg type="ruby"><seg type="rb">椈</seg><seg type="rp">（</seg><seg type="rt">ぶな</seg><seg type="rp">）</seg></seg>とのうれひをあつめ<lb />
+<seg type="ruby"><seg type="rb">蛇紋山地</seg><seg type="rp">（</seg><seg type="rt">じやもんさんち</seg><seg type="rp">）</seg></seg>に<seg type="ruby"><seg type="rb">篝</seg><seg type="rp">（</seg><seg type="rt">かがり</seg><seg type="rp">）</seg></seg>をかかげ<lb />
+ひのきの髪をうちゆすり<lb />
+まるめろの匂のそらに<lb />
+あたらしい星雲を燃せ<lb />
+　　　dah-dah-sko-dah-dah<lb />
+<seg type="ruby"><seg type="rb">肌膚</seg><seg type="rp">（</seg><seg type="rt">きふ</seg><seg type="rp">）</seg></seg>を腐植と土にけづらせ<lb />
+筋骨はつめたい炭酸に<seg type="ruby"><seg type="rb">粗</seg><seg type="rp">（</seg><seg type="rt">あら</seg><seg type="rp">）</seg></seg>び<lb />
+<seg type="ruby"><seg type="rb">月月</seg><seg type="rp">（</seg><seg type="rt">つきづき</seg><seg type="rp">）</seg></seg>に日光と風とを焦慮し<lb />
+敬虔に年を<seg type="ruby"><seg type="rb">累</seg><seg type="rp">（</seg><seg type="rt">かさ</seg><seg type="rp">）</seg></seg>ねた<seg type="ruby"><seg type="rb">師父</seg><seg type="rp">（</seg><seg type="rt">しふ</seg><seg type="rp">）</seg></seg>たちよ<lb />
+こんや銀河と森とのまつり<lb />
+<seg type="ruby"><seg type="rb">准</seg><seg type="rp">（</seg><seg type="rt">じゆん</seg><seg type="rp">）</seg></seg>平原の<seg type="ruby"><seg type="rb">天末線</seg><seg type="rp">（</seg><seg type="rt">てんまつせん</seg><seg type="rp">）</seg></seg>に<lb />
+さらにも強く鼓を鳴らし<lb />
+うす月の雲をどよませ<lb />
+　　Ho!　Ho!　Ho!<lb />
+　　　　　むかし<seg type="ruby"><seg type="rb">達谷</seg><seg type="rp">（</seg><seg type="rt">たつた</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">悪路王</seg><seg type="rp">（</seg><seg type="rt">あくろわう</seg><seg type="rp">）</seg></seg><lb />
+　　　　　まつくらくらの二里の<seg type="ruby"><seg type="rb">洞</seg><seg type="rp">（</seg><seg type="rt">ほら</seg><seg type="rp">）</seg></seg><lb />
+　　　　　わたるは夢と<seg type="ruby"><seg type="rb">黒夜神</seg><seg type="rp">（</seg><seg type="rt">こくやじん</seg><seg type="rp">）</seg></seg><lb />
+　　　　　首は刻まれ漬けられ<lb />
+アンドロメダもかゞりにゆすれ<lb />
+　　　　　青い<seg type="ruby"><seg type="rb">仮面</seg><seg type="rp">（</seg><seg type="rt">めん</seg><seg type="rp">）</seg></seg>このこけおどし<lb />
+　　　　　太刀を浴びてはいつぷかぷ<lb />
+　　　　　夜風の底の<seg type="ruby"><seg type="rb">蜘蛛</seg><seg type="rp">（</seg><seg type="rt">くも</seg><seg type="rp">）</seg></seg>をどり<lb />
+　　　　　胃袋はいてぎつたぎた<lb />
+　　dah-dah-dah-dah-dah-sko-dah-dah<lb />
+さらにただしく<seg type="ruby"><seg type="rb">刃</seg><seg type="rp">（</seg><seg type="rt">やいば</seg><seg type="rp">）</seg></seg>を<seg type="ruby"><seg type="rb">合</seg><seg type="rp">（</seg><seg type="rt">あ</seg><seg type="rp">）</seg></seg>はせ<lb />
+<seg type="ruby"><seg type="rb">霹靂</seg><seg type="rp">（</seg><seg type="rt">へきれき</seg><seg type="rp">）</seg></seg>の青火をくだし<lb />
+<seg type="ruby"><seg type="rb">四方</seg><seg type="rp">（</seg><seg type="rt">しはう</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">夜</seg><seg type="rp">（</seg><seg type="rt">よる</seg><seg type="rp">）</seg></seg>の<seg type="ruby"><seg type="rb">鬼神</seg><seg type="rp">（</seg><seg type="rt">きじん</seg><seg type="rp">）</seg></seg>をまねき<lb />
+<seg type="ruby"><seg type="rb">樹液</seg><seg type="rp">（</seg><seg type="rt">じゆえき</seg><seg type="rp">）</seg></seg>もふるふこの<seg type="ruby"><seg type="rb">夜</seg><seg type="rp">（</seg><seg type="rt">よ</seg><seg type="rp">）</seg></seg>さひとよ<lb />
+赤ひたたれを地にひるがへし<lb />
+<seg type="ruby"><seg type="rb">雹雲</seg><seg type="rp">（</seg><seg type="rt">ひよううん</seg><seg type="rp">）</seg></seg>と風とをまつれ<lb />
+　　dah-dah-dah-dahh<lb />
+<seg type="ruby"><seg type="rb">夜風</seg><seg type="rp">（</seg><seg type="rt">よかぜ</seg><seg type="rp">）</seg></seg>とどろきひのきはみだれ<lb />
+月は<seg type="ruby"><seg type="rb">射</seg><seg type="rp">（</seg><seg type="rt">い</seg><seg type="rp">）</seg></seg>そそぐ銀の矢並<lb />
+打つも<seg type="ruby"><seg type="rb">果</seg><seg type="rp">（</seg><seg type="rt">は</seg><seg type="rp">）</seg></seg>てるも火花のいのち<lb />
+太刀の<seg type="ruby"><seg type="rb">軋</seg><seg type="rp">（</seg><seg type="rt">きし</seg><seg type="rp">）</seg></seg>りの消えぬひま<lb />
+　　dah-dah-dah-dah-dah-sko-dah-dah<lb />
+太刀は<seg type="ruby"><seg type="rb">稲妻萱穂</seg><seg type="rp">（</seg><seg type="rt">いなづまかやぼ</seg><seg type="rp">）</seg></seg>のさやぎ<lb />
+獅子の<seg type="ruby"><seg type="rb">星座</seg><seg type="rp">（</seg><seg type="rt">せいざ</seg><seg type="rp">）</seg></seg>に散る火の雨の<lb />
+消えてあとない<seg type="ruby"><seg type="rb">天</seg><seg type="rp">（</seg><seg type="rt">あま</seg><seg type="rp">）</seg></seg>のがはら<lb />
+打つも果てるもひとつのいのち<lb />
+　　dah-dah-dah-dah-dah-sko-dah-dah<lb />
+<seg rend="chitsuki_0" rendition="div" style="text-align:right; margin-right: 0em"><seg facs="../../../gaiji/1-02/1-02-54.png" rend="gaiji" rendition="img" source="※(始め二重括弧、1-2-54)" />一九二二、八、三一<seg facs="../../../gaiji/1-02/1-02-55.png" rend="gaiji" rendition="img" source="※(終わり二重括弧、1-2-55)" /></seg>
+</seg></p></body>
+  </text>
+</TEI>
