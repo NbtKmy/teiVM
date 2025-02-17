@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>原体剣舞連</title>
+        <author>宮沢賢治</author>
+        <respStmt>
+          <orgName ref="http://www.aozora.gr.jp/">青空文庫</orgName>
+          <resp when="2000-10-04">作成</resp>
+          <resp />
+          <note>
+            <lb />
+底本：「宮沢賢治全集1」ちくま文庫、筑摩書房<lb />
+　　　1986（昭和61）年2月26日第1刷発行<lb />
+　　　1998（平成10）年5月12日第17刷発行<lb />
+※底本で注を表す記号として用いられていた「※」は「＊」に置き換えました。      <lb />
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。<lb />
+入力：柴田卓治    <lb />
+校正：かとうかおり    <lb />
+    <date when="2000-10-04">2000年10月4日</date>公開    <lb />
+    <date when="2011-05-11">2011年5月11日</date>修正    <lb />
+青空文庫作成ファイル：    <lb />
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。</note>
+</respStmt>
+<respStmt>
+  <resp>Aozora Transcription</resp>
+  <name>柴田卓治</name>
+</respStmt>
+<respStmt>
+  <resp>Aozora Proofreading</resp>
+  <name>かとうかおり</name>
+</respStmt>
+<respStmt>
+  <resp when="2019-01-01">TEI Encoding</resp>
+  <name>Input Your Name</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<distributor>SIG for East Asian/ Japanese, TEI Consortium</distributor>
+<availability>
+  <p>
+    <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
+              1.0) Public Domain Dedication</ref>
+  </p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>Input by your self<title>『春と修羅』</title>
+  <author>宮沢賢治</author>
+</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+		<graphic xml:id="page1" url="../vm-images/haratai1.jpg"/>
+    <graphic xml:id="page2" url="../vm-images/haratai2.jpg"/>
+    <graphic xml:id="page3" url="../vm-images/haratai3.jpg"/>
+    <graphic xml:id="page4" url="../vm-images/haratai4.jpg"/>
+    <graphic xml:id="page5" url="../vm-images/haratai5.jpg"/>
+    <graphic xml:id="page6" url="../vm-images/haratai6.jpg"/>
+</facsimile>
+<text>
+<front>
+  <div>
+    <listWit>
+      <witness xml:id="初">『春と修羅』初版本</witness>
+      <witness xml:id="宮">宮沢家所蔵本</witness>
+      <witness xml:id="NDL">NDL所蔵本</witness>
+    </listWit>
+  </div>
+</front>
+<body>
+<p xml:lang="ja">
+  <!-- text -->
+<pb facs="page1" ed="NDL" />
+<title rendition="#title">
+  原体剣舞連
+  <lb />(mental sketch modified)
+</title>
+<lb />
+<pb facs="page2" ed="NDL" />
+<l rendition="#singing">dah-dah-dah-dah-dah-sko-dah-dah</l>
+<lg rendition="#first_voice">
+  <l><app><rdg wit="#初 #NDL">こんや</rdg><rdg wit="#宮">こよひ</rdg></app>異装のげん月のした</l>
+  <l>鶏の黒尾を頭巾にかざり</l>
+  <l>片刃の太刀をひらめかす</l>
+  <l>原体村の舞手たちよ</l>
+  <l>鴾いろのはるの樹液を<app><rdg wit="#宮"> 若やかに波だつむねを</rdg><rdg wit="#NDL">(若やかに波だつ胸を)</rdg></app></l>
+  <l>アルペン農の辛酸に投げ</l>
+  <l>生しののめの草いろの火を<app><rdg wit="#宮"> ふくよかにかゞやく頬を</rdg><rdg wit="#NDL">(ふくよかにかがやく頬を)</rdg></app></l>
+  <l>高原の風とひかりにさゝげ</l>
+  <l>菩提樹皮と縄とをまとふ</l>
+  <l>気圏の戦士わが朋たちよ</l>
+  <l>青らみわたる顥気をふかみ</l>
+  <pb facs="page3" ed="NDL" />
+  <l>楢と椈とのうれひをあつめ</l>
+  <l>蛇紋山地に篝をかかげ</l>
+  <l>ひのきの髪をうちゆすり</l>
+  <l>まるめろの匂のそらに</l>
+  <l>あたらしい星雲を燃せ</l>
+</lg>
+<l rendition="#singing">dah-dah-sko-dah-dah</l>
+<lg>
+  <l>肌膚を腐植と土にけづらせ</l>
+  <l>筋骨はつめたい炭酸に粗び</l>
+  <l>月月に日光と風とを焦慮し</l>
+  <l>敬虔に年を累ねた師父たちよ</l>
+  <l><app><rdg wit="#初 #NDL">こんや</rdg><rdg wit="#宮">こよひ</rdg></app>銀河と森とのまつり</l>
+  <l>准平原の天末線に</l>
+  <pb facs="page4" ed="NDL" />
+  <l>さらにも強く鼓を鳴らし</l>
+  <l>うす月の雲をどよませ</l>
+</lg>
+<l rendition="#singing_second">Ho! Ho! Ho!</l>
+<lg rendition="#second_voice">
+  <l>むかし達谷の悪路王</l>
+  <l>まつくらくらの二里の洞</l>
+  <l>わたるは夢と黒夜神</l>
+  <l>首は刻まれ漬けられ</l>
+</lg>
+<lg rendition="#first_voice"><l>アンドロメダもかゞりにゆすれ</l></lg>
+<lg rendition="#second_voice">
+  <l>青い仮面このこけおどし</l>
+  <l>太刀を浴びてはいつぷかぷ</l>
+  <l>夜風の底の蜘蛛をどり</l>
+  <l>胃袋はいてぎつたぎた</l>
+</lg>
+<pb facs="page5" ed="NDL" />
+<l rendition="#singing">dah-dah-dah-dah-dah-sko-dah-dah</l>
+<lg rendition="#first_voice">
+  <l><app><rdg wit="#初 #NLD">さらにただしく刃を合はせ</rdg><rdg wit="#宮">さらにも強く刃を合わせ</rdg></app></l>
+  <l><app><rdg wit="#初 #NDL">霹靂の青火をくだし</rdg><rdg wit="#宮"><del>霹靂の青火をくだし</del></rdg></app></l>
+  <l>四方の夜の鬼神をまねき</l>
+  <l>樹液もふるふこの夜さひとよ</l>
+  <l>赤ひたたれを地にひるがへし</l>
+  <l>雹雲と風とをまつれ</l>
+</lg>
+<l rendition="#singing">dah-dah-dah-dahh</l>
+<lg rendition="#first_voice">
+  <l>夜風とどろきひのきはみだれ</l>
+  <l>月は射そそぐ銀の矢並</l>
+  <l>打つも果てるも火花のいのち</l>
+  <l>太刀の軋りの消えぬひま</l>
+</lg>
+<pb facs="page6" ed="NDL" />
+<l rendition="#singing">dah-dah-dah-dah-dah-sko-dah-dah</l>
+<lg rendition="#first_voice">
+  <l>太刀は稲妻萱穂のさやぎ</l>
+  <l>獅子の星座に散る火の雨の</l>
+  <l>消えてあとない天のがはら</l>
+  <l>打つも果てるもひとつのいのち</l>
+</lg>
+<l rendition="#singing">dah-dah-dah-dah-dah-sko-dah-dah</l>
+</p>
+</body>
+</text>
+</TEI>
