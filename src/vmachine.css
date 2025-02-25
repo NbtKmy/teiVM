@@ -158,13 +158,14 @@ div#mssArea{
 	padding: 0 0 2em 0;
     overflow:auto;
 	z-index:10;
+    display: inline-block;
 }
 
 div.panel{
     float:left;
     border:1px solid black;
 	width:400px;
-    min-height:250px;
+    min-height:300px;
     min-width:250px;
     margin:0;
     padding:0;
@@ -176,7 +177,7 @@ div.panel{
 }
 /*position:absolute to prevent that adjacent panels get moved on resize*/
 div.panel.ui-resizable{
-    position:absolute;   
+    position:absolute;
 }
 div#mssArea div.panel div.panelBanner,
 .viewerHandle{
@@ -220,8 +221,8 @@ div#mssArea div.panel div.panelBanner img.closePanel{
 div#mssArea div.panel div.mssContent{
     margin:10px;
     padding:0;
-    /* line-height:20px; */
     overflow:auto;
+    font-family: "Meiryo UI", sans-serif;
 }
 
 
@@ -271,21 +272,25 @@ div#mssArea div.panel div.noteContent{
 overflow: hidden;
 }
 
+
 div.head,
 div.line,
 div.paragraph{
     clear:both;
+    writing-mode: vertical-rl;
+    display: inline-block;
+    text-align: left;
 }
 div.line{
-    margin:0 4em 0 2.5em;
+    /* margin:0 4em 0 2.5em; */
     padding:0;
 	cursor: auto;
 }
 div.line div.linenumber,
 div.line div.emptynumber{
     float:left;
-    margin-left:-2.5em;
-    width:2em;
+    margin-left:-1.5em;
+    width:1.5em;
 }
 
 div.line div.linenumber{
@@ -363,7 +368,7 @@ div.paragraph{
     margin:0;
 }
 div.mssContent div.paragraph div.reading{
-    margin:6px 0;
+    margin:0 0;
 }
 
 div.apparatus div.reading{
@@ -414,28 +419,30 @@ ins{
 	text-align:center;
 }
 
-.rend-verttext{
-    writing-mode: vertical-rl;
-}
 .rend-verttext-title{
     writing-mode: vertical-rl;
     font-weight: bold;
+    text-indent: 1em;
+    margin-left: 10px;
 }
 .rend-verttext-singing{
     writing-mode: vertical-rl;
-    text-indent: -2em;
+    text-indent: 2em;
+    margin-left: 10px;
 }
 .rend-verttext-singing_second{
     writing-mode: vertical-rl;
-    text-indent: -1em;
+    text-indent: 1em;
+    margin-left: 10px;
 }
 .rend-verttext-first_voice{
     writing-mode: vertical-rl;
-    text-indent: 0em;
+    margin-left: 10px;
 }
 .rend-verttext-second_voice{
     writing-mode: vertical-rl;
-    text-indent: -2em;
+    text-indent: 2em;
+    margin-left: 10px;
 }
 
 .place-above,
@@ -457,9 +464,9 @@ div.type-stanza{
     margin-bottom:25px;
 }
 .pagebreak{
-    margin:10px auto 10px auto;
+    margin:0px 5px 0px 5px;
     clear:right;
-	min-width:20px;
+	min-width:3px;
 }
 div.rend-right{
 	text-align:right;
