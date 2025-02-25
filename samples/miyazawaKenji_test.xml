@@ -38,7 +38,7 @@
 </respStmt>
 </titleStmt>
 <publicationStmt>
-<distributor>NbtKmy</distributor>
+<distributor><ref target="https://github.com/NbtKmy/teiVM">NbtKmy</ref></distributor>
 <availability>
   <p>
     <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0
